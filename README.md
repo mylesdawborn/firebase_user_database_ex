@@ -1,6 +1,7 @@
 # firebase_user_database_ex
 
-A new Flutter application.
+Warning: Written pre 1.2 Flutter version.
+(Database used: Firebase. Warning: Database may have been deleted due to no activity
 
 ## Getting Started
 
